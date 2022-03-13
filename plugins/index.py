@@ -117,7 +117,7 @@ async def send_for_index(bot, message):
     await bot.send_message(LOG_CHANNEL,
                            f'#IndexRequest\n\nBy : {message.from_user.mention} (<code>{message.from_user.id}</code>)\nChat ID/ Username - <code> {chat_id}</code>\nLast Message ID - <code>{last_msg_id}</code>\nInviteLink - {link}',
                            reply_markup=reply_markup)
-    await message.reply('ThankYou For the Contribution, Wait For My Moderators to verify the files.')
+    await message.reply('ThankYou For the Contribution, Wait For My Moderators to verify these files.')
 
 
 @Client.on_message(filters.command('setskip') & filters.user(ADMINS))
@@ -131,7 +131,7 @@ async def set_skip_number(bot, message):
         await message.reply(f"Successfully set SKIP number as {skip}")
         temp.CURRENT = int(skip)
     else:
-        await message.reply("Give me a skip number")
+        await message.reply("Give me a number to skip")
 
 
 async def index_files_to_db(lst_msg_id, chat, msg, bot):

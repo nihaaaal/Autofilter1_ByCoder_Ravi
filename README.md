@@ -88,7 +88,7 @@
 
 ## Thanks to 
 
- - Thanks To [Ravinandan](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
+ - Thanks To [Ravinandan](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/TechCoderRavi) And [AutoFilterBoT](https://github.com/TechnoMindz/TechCoderRavi)
  - Thanks To All Everyone In This Journey
 
 

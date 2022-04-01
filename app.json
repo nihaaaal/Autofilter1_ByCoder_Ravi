@@ -21,17 +21,14 @@
         "BOT_TOKEN": {
             "description": "Your bot token.",
             "required": true,
-            "value": "Your Bot Token"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
             "required": true,
-            "value": ""
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
             "required": true,
-            "value": ""
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Of Database, Separate multiple IDs by space.",

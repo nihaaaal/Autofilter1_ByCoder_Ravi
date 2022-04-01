@@ -12,11 +12,6 @@
 <a href="https://www.youtube.com/c/TechnoMindz">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
-  
-
-
-
-## SUPPORT
 ## IF YOU NEED ANY ASSISTANCE FEEL FREE TO CONTACT
 ## YOUTUBE  [SUPPORT_CHANNEL](https://t.me/technomindzchat)
 ## Contact [OWNER](https://t.me/technomindzyt)

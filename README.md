@@ -1,4 +1,4 @@
-<h2 align="centre">🇮🇳TM Eva Maria'S Bot🇮🇳</h2>
+<h2 align="centre">TM Eva Maria'S Bot🇳</h2>
 
 
 

@@ -1,4 +1,4 @@
-<h2 align="centre">🇮🇳TECHNO MINDZ AUTO FILTER - 1🇮🇳</h2>
+<h2 align="centre">🇮🇳TM Eva Maria'S Bot🇮🇳</h2>
 
 
 
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;Created+by+RAVINANDAN!;A+simple+and+a+powerful+Bot!;A+Advanced+AutoFilter+Bot;And+More+Awsome+Features!;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;Created+by+RAVINANDAN!;A+simple+and+a+basic+Bot!;A+Advanced+AutoFilter+Bot;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
 </p>
 </h1>
 <a href="https://www.youtube.com/c/TechnoMindz">
